@@ -18,3 +18,23 @@ This repository contains my **30-day CSS learning journey**, where I practice CS
 
 ## 🗂 Folder Structure
 Each day has its own folder:
+
+
+Each folder includes:
+- HTML file
+- CSS file
+- Notes (if needed)
+
+## 🎯 Goal
+- Build strong CSS fundamentals
+- Improve responsive design skills
+- Write clean and maintainable CSS
+- Prepare for frontend & full-stack projects
+
+## 📅 Progress
+✔ Day 1 – Started - Finished ! 
+🚧 Currently learning and updating daily
+
+## 🧑‍💻 Author
+**Aahil Mohammed**
+
